@@ -1,1 +1,1 @@
-# Simple-Bioshperic-Carbon-Model
+# A simple 6 box model of carbon turnover in the terrestrial biosphere used to analyse ESM's from CMIP6 (https://esgf-index1.ceda.ac.uk/search/cmip6-ceda/). For more information contact hamishwarren@gmail.com.
